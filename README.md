@@ -5,13 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  link href="https://www.linkedin.com/in/m%C3%A9lanie-marmande-86935922a/"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Roockbye.Roockbye&"  />
+  <img src="https://www.linkedin.com/in/m%C3%A9lanie-marmande-86935922a/" height="25" alt="linkedin logo"/>
 </div>
 
 ###
@@ -24,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Mélanie from France<br><br>- 🔭 I’m working as a Computer Science Student<br>- 📚 I'm currently learning some programming languages such as C#, PHP, Python, SQL but also other subjects like Linux, Windows Server, Network and Iot...<br>- ⚡ In my free time I </p>
+<p align="left">I'm Melanie from France<br><br>- 🔭 I’m working as a Computer Science Student<br>- 📚 I'm currently learning some programming languages such as C#, PHP, Python, SQL but also other subjects like Linux, Windows Server, Network and iot...<br>- ⚡ In my free time I like to learn about cybersecurity and go to plateform like tryhackme, rootme, hackthebox, cybrary etc...</p>
 
 ###
 
@@ -52,8 +46,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/grafana/grafana-original-wordmark.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   
