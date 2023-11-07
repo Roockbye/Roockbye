@@ -3,9 +3,16 @@
 </div>
 
 ###
+<div align="center">
+ <a href="https://www.linkedin.com/in/m%C3%A9lanie-marmande-86935922a/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+<a href="https://discord.com/channels/@Roockbye"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
+<a href="mailto:melanie.marmande@ynov.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+</div>
+
+###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/m%C3%A9lanie-marmande-86935922a/" height="25" alt="linkedin logo"/>
+  <img src="https://profile-counter.glitch.me/Roockbye/count.svg?"  />
 </div>
 
 ###
@@ -18,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Melanie from France<br><br>- 🔭 I’m working as a Computer Science Student<br>- 📚 I'm currently learning some programming languages such as C#, PHP, Python, SQL but also other subjects like Linux, Windows Server, Network and iot...<br>- ⚡ In my free time I like to learn about cybersecurity and go to plateform like tryhackme, rootme, hackthebox, cybrary etc...</p>
+<p align="left">I'm Melanie from France but you will know me here by my the pseudo Roockbye 🎸<br><br>- 🔭 I’m working as a Computer Science Student<br>- 📚 I'm currently learning some programming languages such as C#, PHP, Python, SQL but also other subjects like Linux, Windows Server, Network and iot...<br>- ⚡ In my free time I like to learn about cybersecurity and go to plateform like tryhackme, rootme, hackthebox, cybrary etc...</p>
 
 ###
 
@@ -62,3 +69,14 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Roockbye/Roockbye/output/snake.svg" alt="Snake animation" />
+
+###
+
